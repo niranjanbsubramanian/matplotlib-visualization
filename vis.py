@@ -37,3 +37,10 @@ days = ['Mon','Tues','Wed','Thur','Fri','Sat','Sun']
 
 plt.bar(days, ice_cream)
 plt.show()
+
+#plotting horizontally
+plt.barh(days, ice_cream)
+plt.show()
+
+# Pie Chart
+
